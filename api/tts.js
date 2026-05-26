@@ -50,7 +50,7 @@ module.exports = async (req, res) => {
           business: {
             aue: 'raw',
             auf: 'audio/L16;rate=16000',
-            vcn: 'aisbabyxu',
+            vcn: 'x4_yezi',
             speed: 50,
             volume: 80,
             pitch: 55,
